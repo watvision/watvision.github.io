@@ -1,9 +1,8 @@
 # Site settings
 title: WatVision
-email: your-email@domain.com
+email: watvision.team@gmail.com
 description: >
-  WatVision team project page
-  to give information about the project.
+  WatVision - Making Touchscreens Accessible
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://watvision.github.io # the base hostname & protocol for your site
@@ -38,19 +37,7 @@ defaults:
     layout: post
     sectionid: blog
 
-- scope:
-    path: _docs
-    type: docs
-  values:
-    layout: docs
-    sectionid: docs
-    seo:
-      type: "WebPage"
-
 collections:
-  docs:
-    permalink: /:collection/:path/
-    output: true
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
