@@ -1,5 +1,6 @@
 
-#Meet The WATVision Team!
+# Meet The WATVision Team!
+
 The team consists of 6 engineers from the Mechatronics Engineering program at the University of Waterloo, Class of 2018. After 5 years of this multidisciplinary program, each team member has worked to solidify a fundamental understanding of principals in mechanical, electrical, and software engineering. Each of these members has also completed 6 internships, developing specialized applied skills. Together we hope to use our combined skills to produce the best possible solution.
 
 ### Craig Loewen
