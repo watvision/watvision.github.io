@@ -23,6 +23,6 @@ Joseph brings valuable experience in electricl design and software to the team. 
 ![Jennifer Kim Photo](/img/meet-the-team/jennifer.jpg){:class="img-responsive"}
 Jennifer is an accomplished electrical engineer, coming to the team with experience at Form Labs in Boston. She will be working with the wearable team designing the electrical system and interfacing.
 
-### Jake Rampertab
-![Jake Rampertab](/img/meet-the-team/jake.jpg){:class="img-responsive"}
-Jake is both an experienced engineer and also an aspiring entrepreneur. Our integrations specialist and true mechtronics engineer, he has spent internships at companies like NVIDIA and Alchemy Labs. Jake will be working on the vision team while also leading sponsorship. 
+### Jacob Rampertab
+![Jacob Rampertab](/img/meet-the-team/jacob.jpg){:class="img-responsive"}
+Jacob is both an experienced engineer and also an aspiring entrepreneur. Our integrations specialist and true mechtronics engineer, he has spent internships at companies like NVIDIA and Alchemy Labs. Jacob will be working on the vision team while also leading sponsorship. 
