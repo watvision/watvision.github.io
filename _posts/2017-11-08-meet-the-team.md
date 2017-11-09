@@ -20,7 +20,7 @@ Elizabeth specilizes in electrical and software engineering. She has spent her i
 
 ### Joseph Lundy
 ![Joseph Lundy Photo](/img/meet-the-team/joseph.jpg){:class="img-responsive"}
-Joseph brings valuable experience in electricl design and software to the team. He has worked in computer vision and medical technology. Joseph will be working primarily with the wearable team.
+Joseph brings valuable experience in electrical design and software to the team. He has worked on computer vision at NXP Semiconductor and medical technology at Synaptive Medical. Joseph will be working primarily with the wearable team.
 
 ### Jennifer Kim
 ![Jennifer Kim Photo](/img/meet-the-team/jennifer.jpg){:class="img-responsive"}
