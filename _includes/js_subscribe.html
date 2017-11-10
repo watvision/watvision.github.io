@@ -24,6 +24,7 @@
 
     $(document).ready(function(){
         $('#form').submit(function() {
+            ga('send', 'event', 'Subscribe', 'click', 'Subscribe_Main_Page');
             postToGoogle();
             return false;
         });
