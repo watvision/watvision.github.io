@@ -24,7 +24,7 @@ Joseph brings valuable experience in electrical design and software to the team.
 
 ### Jennifer Kim
 ![Jennifer Kim Photo](/img/meet-the-team/jennifer.jpg){:class="img-responsive"}
-Jennifer is an accomplished electrical engineer, coming to the team with experience at Form Labs in Boston. She will be working with the wearable team designing the electrical system and interfacing.
+Jennifer is an accomplished electrical engineer, coming to the team with experience at Formlabs in Boston. She will be working with the wearable team designing the electrical system and interfacing.
 
 ### Jacob Rampertab
 ![Jacob Rampertab](/img/meet-the-team/jacob.jpg){:class="img-responsive"}
