@@ -24,7 +24,7 @@ The goal of our project is to create a way for a visually impaired person to use
             <li>Open the app and point the camera at the screen</li>
             <li>The application will notify the user when it fully detects the menu</li>
             <li>Use the wearable to explore screen elements and have them read out to you</li>
-            <li>Press on the touchscreen when the wearable is over desired element</li>
+            <li>Press on the touchscreen when the wearable is over a desired element</li>
     </div>
 </div>
 <br/>
