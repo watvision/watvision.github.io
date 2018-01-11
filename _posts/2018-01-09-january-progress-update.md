@@ -55,7 +55,7 @@ The goal of our project is to create a way for a visually impaired person to use
 We aim to have a preliminary demo for the project ready by next week, and will be posting its details to the blog. We plan to judge our prototype based upon these five criteria:
 
 * Cost - Measured in USD
-* Usability - Measured in Kilograms
+* Usability - Measured by the weight of the wearable in Kilograms
 * Accuracy - Measured in percentage of accurately defined elements
 * Speed - Measured in how quickly a user can complete a workflow of a touch screen in seconds
 * Reliability - Measured in the hours of battery life
