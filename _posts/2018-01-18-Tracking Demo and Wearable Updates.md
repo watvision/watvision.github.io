@@ -2,6 +2,7 @@
 layout: post
 title:  "Tracking Demo and Wearable Updates"
 author: Lior Lustgarten
+thumbnailpath: /img/BP2-tracking-demo-and-wearable-update/wearable_demo_1.jpg
 ---
 
 We're two weeks into the term, time for some updates!

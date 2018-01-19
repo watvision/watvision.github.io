@@ -2,6 +2,7 @@
 layout: post
 title:  "January Progress Update"
 author: Craig Loewen
+thumbnailpath: /img/january-progress-update/overalluse.JPG
 ---
 
 It's been 4 months since our team has started this project, and we are ready to show off some major updates!
