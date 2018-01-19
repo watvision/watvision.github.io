@@ -20,17 +20,29 @@ their phone in their right hand and using the Watvision wearable in their left h
  the screen" class="img-responsive" />
 <p>Proof of concept demo for ring and screen tracking</p>
 
-#####Ring Prototype Progress
-In December we created two prototype 3D printed rings for finger tracking. The rings are intended
- to be worn just below the fingertip. This allows a user to rest the ring against the screen and 
- then tilt their finger forward when they want to touch the screen. Over the last month, the team 
- has been using these early prototypes to get a sense of how to improve our wearable. A recent 
- addition to the prototype is a strip of microfiber cloth (glasses cleaner material) sewn around 
- the band of the ring. This soft material glides against the touch screen to avoid scratches allowing 
- the user to slide their finger around the screen without touching it accidentally.
+##### Ring Prototype Progress
 
-<img src="/img/BP2-tracking-demo-and-wearable-update/wearable_demo_2.jpg" alt="Closeup of the prototype ring showing where it sits on the finger" class="img-responsive" />
-<p>3D printed finger tracking ring in use</p>
+
+<div class="row">
+    <div class="col-sm-6">
+
+        <img src="/img/BP2-tracking-demo-and-wearable-update/wearable_demo_2.jpg" alt="Closeup of the prototype ring showing where it sits on the finger" class="img-responsive" />
+        <p>3D printed finger tracking ring in use</p>
+
+    </div>
+
+    <div class="col-sm-6">
+        In December we created two prototype 3D printed rings for finger tracking. The rings are intended
+        to be worn just below the fingertip. This allows a user to rest the ring against the screen and 
+        then tilt their finger forward when they want to touch the screen. Over the last month, the team 
+        has been using these early prototypes to get a sense of how to improve our wearable. A recent 
+        addition to the prototype is a strip of microfiber cloth (glasses cleaner material) sewn around 
+        the band of the ring. This soft material glides against the touch screen to avoid scratches allowing 
+        the user to slide their finger around the screen without touching it accidentally.
+    </div>
+</div>
+<br/>
+
 
 ##### Wearable - Haptic Feedback
 
