@@ -25,10 +25,8 @@ their phone in their right hand and using the Watvision wearable in their left h
 
 <div class="row">
     <div class="col-sm-6">
-
         <img src="/img/BP2-tracking-demo-and-wearable-update/wearable_demo_2.jpg" alt="Closeup of the prototype ring showing where it sits on the finger" class="img-responsive" />
         <p>3D printed finger tracking ring in use</p>
-
     </div>
 
     <div class="col-sm-6">
@@ -49,26 +47,26 @@ their phone in their right hand and using the Watvision wearable in their left h
 One of our goals is to add haptic feedback to our project. Vibration as a mode of communication 
 to the user is intuitive and immediate. For example, if a vibration occurs each time the user’s 
 finger is over an interactable element, it will allow for the screen to be explored more quickly.
+<br/>
 The platform for our first haptic prototype is the <strong> Raspberry Pi Zero </strong>. It’s 
 relatively small, easy for us to program and has Bluetooth built in for communication with the 
-phone. We’re also testing the similar <strong>SparkFun ESP32 Thing </strong> as an alternative. 
+phone. We’re also testing the similar <strong>SparkFun ESP32 Thing </strong> as an alternative.
+<br/>
 These are the parts we’re using for our proof of concept : 
 
 <div class="row">
     <div class="col-sm-6">
-
         <img src="/img/BP2-tracking-demo-and-wearable-update/raspberry_pi_zero_battery_haptic_motor.jpg" alt="Raspberry Pi zero powered by small lipo and vibration motor with haptic driver." class="img-responsive" />
         <p>The setup for the use of the app is demonstrated using the Camera App</p>
-
     </div>
 
     <div class="col-sm-6">
-            <li><a href="https://www.adafruit.com/product/3400">Raspberry Pi Zero</a>
-            <li><a href="https://www.adafruit.com/product/1578">3.7v 500mAh Lithium Ion Polymer Battery</a>
-            <li><a href="https://www.adafruit.com/product/3196">Pimoroni LiPo Shim</a>
-            <li><a href="https://www.adafruit.com/product/1201">Vibrating Mini Motor Disc</a>
-            <li><a href="https://www.adafruit.com/product/2305">Haptic Motor Controller</a>
-            <li><a href="https://www.adafruit.com/product/1905">USB LiPo Charger</a>
+            <li><a href="https://www.adafruit.com/product/3400">Raspberry Pi Zero</a></li>
+            <li><a href="https://www.adafruit.com/product/1578">3.7v 500mAh Lithium Ion Polymer Battery</a></li>
+            <li><a href="https://www.adafruit.com/product/3196">Pimoroni LiPo Shim</a></li>
+            <li><a href="https://www.adafruit.com/product/1201">Vibrating Mini Motor Disc</a></li>
+            <li><a href="https://www.adafruit.com/product/2305">Haptic Motor Controller</a></li>
+            <li><a href="https://www.adafruit.com/product/1905">USB LiPo Charger</a></li>
     </div>
 </div>
 <br/>
