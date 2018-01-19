@@ -39,7 +39,6 @@ their phone in their right hand and using the Watvision wearable in their left h
         the user to slide their finger around the screen without touching it accidentally.
     </div>
 </div>
-<br/>
 
 
 ##### Wearable - Haptic Feedback
@@ -48,9 +47,11 @@ One of our goals is to add haptic feedback to our project. Vibration as a mode o
 to the user is intuitive and immediate. For example, if a vibration occurs each time the user’s 
 finger is over an interactable element, it will allow for the screen to be explored more quickly.
 <br/>
+<br/>
 The platform for our first haptic prototype is the <strong> Raspberry Pi Zero </strong>. It’s 
 relatively small, easy for us to program and has Bluetooth built in for communication with the 
 phone. We’re also testing the similar <strong>SparkFun ESP32 Thing </strong> as an alternative.
+<br/>
 <br/>
 These are the parts we’re using for our proof of concept : 
 
@@ -75,4 +76,4 @@ These are the parts we’re using for our proof of concept :
 As our system takes shape, we’re looking to get more feedback. We have been guided so far by insights
  gained from interviews with people who are blind or visually impaired. Soon we plan to have a functional
  (if rough around the edges) demo and we’re excited to hear what people think! If you are interested in
- trying it out and giving us feedback, reach out to our team email: watvisionteam@gmail.com
+ trying it out and giving us feedback, reach out to our team email: <a href="mailto:watvisionteam@gmail.com">watvisionteam@gmail.com</a>
