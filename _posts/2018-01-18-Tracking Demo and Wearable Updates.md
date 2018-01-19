@@ -70,7 +70,6 @@ These are the parts we’re using for our proof of concept :
             <li><a href="https://www.adafruit.com/product/1905">USB LiPo Charger</a></li>
     </div>
 </div>
-<br/>
 
 ##### Moving Forward
 As our system takes shape, we’re looking to get more feedback. We have been guided so far by insights
