@@ -49,7 +49,7 @@ to the user is intuitive and immediate. For example, if a vibration occurs each 
 finger is over an interactable element, it will allow for the screen to be explored more quickly.
 <br/>
 <br/>
-The platform for our first haptic prototype is the <strong> Raspberry Pi Zero </strong>. It’s 
+The platform for our first haptic prototype is the <strong> Raspberry Pi Zero</strong>. It’s 
 relatively small, easy for us to program and has Bluetooth built in for communication with the 
 phone. We’re also testing the similar <strong>SparkFun ESP32 Thing </strong> as an alternative.
 <br/>
