@@ -9,7 +9,7 @@ Five months of development and only two months left from symposium. Check out ou
 
 ##### Full System Demo
 
-We've made a demo video showing just how much our system can do. Check it out by clicking the link below. Make sure to turn up the volume to hear the Watvision system speaking!
+We've made a demo video showing just how much our system can do. Check it out by clicking the image below. Make sure to turn up the volume to hear the Watvision system speaking!
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/HI3hGIS06DM/0.jpg)](http://www.youtube.com/watch?v=HI3hGIS06DM)
 
