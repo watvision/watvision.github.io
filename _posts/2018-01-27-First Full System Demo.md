@@ -11,7 +11,8 @@ Five months of development and only two months left from symposium. Check out ou
 
 We've made a demo video showing just how much our system can do. Check it out by clicking the image below. Make sure to turn up the volume to hear the Watvision system speaking!
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/HI3hGIS06DM/0.jpg)](http://www.youtube.com/watch?v=HI3hGIS06DM)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HI3hGIS06DM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ##### How to use it
 
