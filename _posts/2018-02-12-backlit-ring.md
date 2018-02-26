@@ -2,7 +2,7 @@
 layout: post
 title:  "Making a pcb for a backlit ring"
 author: Joseph Lundy
-thumbnailpath: /img/backlit-ring/[INSERT_FILE_NAME].jpg
+thumbnailpath: img/backlit-ring/v3-top-switch-battery.jpg
 ---
 
 We've been designing a pcb to make a backlit wearable, for better finger tracking in varying lighting conditions.
