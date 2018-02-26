@@ -30,7 +30,7 @@ For the second board, we had it printed without a silkscreen.  Unfortunately at 
 
 
 ##### Third board - a new hope
-For our third board, we bought larger, 1206 sized resistors, and made the pads for everything larger.  As well, we used a more suitable plastic battery mount, that provides much better insulation for the battery, and easier-to solder contacts. We also replaced the vias with larger plated through-holes.  Finally, the E5 facility was able to print it with solder masking. This new board should be much easier to hand solder, and hopefully we can use it to due more in depth testing in different lighting environments.
+For our third board, we bought larger, 1206 sized resistors, and made the pads for everything larger.  As well, we used a more suitable plastic battery mount, that provides much better insulation for the battery, and easier-to solder contacts. We also replaced the vias with larger plated through-holes.  Finally, the E5 facility was able to print it with solder masking. This new board should be much easier to hand solder, and hopefully we can use it to do more in depth testing in different lighting environments.
 <img src="/img/backlit-ring/v3-top-switch-battery.jpg" alt="the top of a 1 inch by 1 inch copper PCB. It has green insulation on it, with large exposed copper pads for soldering leds and resistors." class="img-responsive" />
 <p>PCB V3 - top</p>
 
