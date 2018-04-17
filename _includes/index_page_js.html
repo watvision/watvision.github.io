@@ -1,0 +1,69 @@
+<script language="JavaScript" type="text/javascript">
+    function postToGoogle() {
+        var field1 = $('#emailinput').val();
+
+        $.ajax({
+            url: "https://docs.google.com/forms/d/1aQH7GJVUNdzig81yyaalb3C_OR28BpIXbv9VAS_OHt8/formResponse",
+            data: {"entry.1038388665": field1},
+            type: "POST",
+            dataType: "xml",
+            statusCode: {
+                0: function() {
+                    //Success Message
+                    $('#form').hide()  
+                    $('#subscribesuccess').show();                  
+                },
+                200: function() {
+                    //Success Message
+                    $('#form').hide()  
+                    $('#subscribesuccess').show();   
+                }
+            }
+        });
+    }
+
+    $(document).ready(function(){
+        $('#form').submit(function() {
+            ga('send', 'event', 'Subscribe', 'click', 'Subscribe_Main_Page');
+            postToGoogle();
+            return false;
+        });
+    });
+</script>
+<!-- Video js -->
+<script>
+    //This loads the IFrame Player API code asynchronously.
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+    // This function creates an <iframe> (and YouTube player) after the API code downloads.
+    var player;
+    function onYouTubeIframeAPIReady() {
+        player = new YT.Player('youTubePlayer', {
+            videoId: 'TycyWv1ujZY', //the code at the end of your old iframe embed script
+            events: {
+                'onReady': onPlayerReady,
+                'onStateChange': onPlayerStateChange
+            }
+        });
+    }
+    function onPlayerReady(event) {
+        //we aren't going to do anything here
+        //event.target.playVideo();
+    }
+    function onPlayerStateChange(event) {
+        // track when user clicks to Play
+        if (event.data == YT.PlayerState.PLAYING) {
+            ga('send', 'event', 'Videos', 'Play', 'SpotMeVideo');
+        }
+        // track when user clicks to Pause
+        if (event.data == YT.PlayerState.PAUSED) {
+            ga('send', 'event', 'Videos', 'Pause', 'SpotMeVideo');
+        }
+        // track when video ends
+        if (event.data == YT.PlayerState.ENDED) {
+            ga('send', 'event', 'Videos', 'Finished', 'SpotMeVideo');
+        }
+    }
+</script>
